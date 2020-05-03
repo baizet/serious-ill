@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ru.hedgehog.serious-ill.serious-ill-back.main" target="1.8" />
+      <module name="ru.hedgehog.serious-ill.serious-ill-back.test" target="1.8" />
+      <module name="serious-ill-back.main" target="1.8" />
+      <module name="serious-ill-back.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
