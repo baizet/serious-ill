@@ -36,6 +36,6 @@ repositories {   // repositories for Jar's you access in your code
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version" // Required for Kotlin integration
     compile "org.springframework.boot:spring-boot-starter-web"
-    compile 'com.google.appengine:appengine-api-1.0-sdk:+'  // Latest App Engine Api's
-    compile 'jstl:jstl:1.2'
+    compile("com.google.appengine:appengine:+")
+    compile("com.google.appengine:appengine-api-1.0-sdk:+")
 }
